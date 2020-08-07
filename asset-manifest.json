@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ReactJs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Portfolio-ReactJs/static/js/main.f003c989.chunk.js",
+    "main.js.map": "/Portfolio-ReactJs/static/js/main.f003c989.chunk.js.map",
+    "runtime-main.js": "/Portfolio-ReactJs/static/js/runtime-main.529dedfe.js",
+    "runtime-main.js.map": "/Portfolio-ReactJs/static/js/runtime-main.529dedfe.js.map",
+    "static/js/2.b8a93fe0.chunk.js": "/Portfolio-ReactJs/static/js/2.b8a93fe0.chunk.js",
+    "static/js/2.b8a93fe0.chunk.js.map": "/Portfolio-ReactJs/static/js/2.b8a93fe0.chunk.js.map",
+    "index.html": "/Portfolio-ReactJs/index.html",
+    "precache-manifest.20758905352c47f0ae3afdc19d07dd69.js": "/Portfolio-ReactJs/precache-manifest.20758905352c47f0ae3afdc19d07dd69.js",
+    "service-worker.js": "/Portfolio-ReactJs/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Portfolio-ReactJs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b8a93fe0.chunk.js.LICENSE.txt": "/Portfolio-ReactJs/static/js/2.b8a93fe0.chunk.js.LICENSE.txt",
+    "static/media/Bookstore.png": "/Portfolio-ReactJs/static/media/Bookstore.38a4d574.png",
+    "static/media/Portfolio-2.png": "/Portfolio-ReactJs/static/media/Portfolio-2.18229fae.png",
+    "static/media/aio-bot.png": "/Portfolio-ReactJs/static/media/aio-bot.e1c65422.png",
+    "static/media/covid19.png": "/Portfolio-ReactJs/static/media/covid19.a3971ba7.png",
+    "static/media/portfolio.png": "/Portfolio-ReactJs/static/media/portfolio.fa46615e.png",
+    "static/media/pp.jpg": "/Portfolio-ReactJs/static/media/pp.165a1c65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529dedfe.js",
+    "static/js/2.b8a93fe0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f003c989.chunk.js"
+  ]
+}
