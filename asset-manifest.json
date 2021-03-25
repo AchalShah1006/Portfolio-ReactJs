@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ReactJs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Portfolio-ReactJs/static/js/main.58200783.chunk.js",
+    "main.js.map": "/Portfolio-ReactJs/static/js/main.58200783.chunk.js.map",
+    "runtime-main.js": "/Portfolio-ReactJs/static/js/runtime-main.529dedfe.js",
+    "runtime-main.js.map": "/Portfolio-ReactJs/static/js/runtime-main.529dedfe.js.map",
+    "static/js/2.85d9e0f6.chunk.js": "/Portfolio-ReactJs/static/js/2.85d9e0f6.chunk.js",
+    "static/js/2.85d9e0f6.chunk.js.map": "/Portfolio-ReactJs/static/js/2.85d9e0f6.chunk.js.map",
+    "index.html": "/Portfolio-ReactJs/index.html",
+    "precache-manifest.fab9539022154d9c49a857e30ffbe8dc.js": "/Portfolio-ReactJs/precache-manifest.fab9539022154d9c49a857e30ffbe8dc.js",
+    "service-worker.js": "/Portfolio-ReactJs/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Portfolio-ReactJs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.85d9e0f6.chunk.js.LICENSE.txt": "/Portfolio-ReactJs/static/js/2.85d9e0f6.chunk.js.LICENSE.txt",
+    "static/media/Bookstore.png": "/Portfolio-ReactJs/static/media/Bookstore.38a4d574.png",
+    "static/media/achal-2.jpeg": "/Portfolio-ReactJs/static/media/achal-2.75bb4190.jpeg",
+    "static/media/color-picker.png": "/Portfolio-ReactJs/static/media/color-picker.6540c5bd.png",
+    "static/media/covid19.png": "/Portfolio-ReactJs/static/media/covid19.a3971ba7.png",
+    "static/media/portfolio.png": "/Portfolio-ReactJs/static/media/portfolio.fa46615e.png",
+    "static/media/pp.jpg": "/Portfolio-ReactJs/static/media/pp.165a1c65.jpg",
+    "static/media/studentPortal.png": "/Portfolio-ReactJs/static/media/studentPortal.60d445ed.png",
+    "static/media/tictactoe.png": "/Portfolio-ReactJs/static/media/tictactoe.27f6e522.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529dedfe.js",
+    "static/js/2.85d9e0f6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.58200783.chunk.js"
+  ]
+}
