@@ -1,7 +1,7 @@
 {
-  "homepage": "http://AchalShah1006.github.io",
+  "homepage": "https://AchalShah1006.github.io/Portfolio-ReactJs/",
   "name": "portfolio",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Portfolio with reactjs.",
   "repository": {
     "type": "git",
@@ -11,7 +11,6 @@
     "npm": ">=5",
     "node": ">=8.15.1"
   },
-  "author": "Max Stoiber",
   "license": "MIT",
   "scripts": {
     "predeploy": "npm run build",
