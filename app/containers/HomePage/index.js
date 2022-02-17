@@ -9,6 +9,7 @@ const useStyles = makeStyles(theme => ({
   root: {
     width: '100%',
     height: '100vh',
+    padding: '3rem',
   },
   drawerHeader: {
     display: 'flex',

@@ -13,6 +13,9 @@ import {
 import Cards from '../../components/Cards';
 
 const useStyles = makeStyles(theme => ({
+  root: {
+    paddingTop: '3rem',
+  },
   grid: {
     flexGrow: 1,
   },

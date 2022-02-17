@@ -21,7 +21,7 @@ const header = 64;
 const useStyles = makeStyles(theme => ({
   root: {
     minHeight: `calc(100vh - ${header}px)`,
-    paddingTop: '1.7rem',
+    paddingTop: '3rem',
     flexGrow: 1,
   },
   large: {

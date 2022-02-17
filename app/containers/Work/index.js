@@ -5,6 +5,9 @@ import { Container } from '@material-ui/core';
 import Project from '../../components/Projects';
 
 const useStyles = makeStyles(theme => ({
+  root: {
+    paddingTop: '3rem',
+  },
   grid: {
     flexGrow: 1,
   },
