@@ -8,7 +8,7 @@ var __wpo = {
     "additional": [
       "/npm.intl.9f49a78b4ca338524709.chunk.js",
       "/npm.react-pdf.104f5f5563445e5d66bf.chunk.js",
-      "/main.e4f9536bc5da64b0342a.chunk.js",
+      "/main.045cac71cbc09d400c38.chunk.js",
       "/npm.babel.25a522c89abef42b659e.chunk.js",
       "/npm.connected-react-router.21fd9e15175b1c45a2ce.chunk.js",
       "/npm.core-js.bf8479ba8742ced8a2f4.chunk.js",
@@ -26,7 +26,7 @@ var __wpo = {
     "23cae586f1fe9a1395cc660000d98a86b1c3ceaf": "/favicon.ico",
     "8c343eadc04167c9e8d4d4f3cbdf021d30e6bbf4": "/npm.intl.9f49a78b4ca338524709.chunk.js",
     "467f119ec32d45fde33edd8f7ef2d39c9a3867c0": "/npm.react-pdf.104f5f5563445e5d66bf.chunk.js",
-    "5bbf7c691836179a68439aaa4e16d2bf269caa1b": "/main.e4f9536bc5da64b0342a.chunk.js",
+    "d4d59046fba70e1058142479b7c1b8fd4716d9f8": "/main.045cac71cbc09d400c38.chunk.js",
     "d4f1021da5378c525d151f7bc5b3d2e07f9cdda8": "/npm.babel.25a522c89abef42b659e.chunk.js",
     "2763f82d13ab81b83be58d7be642e1675f0db221": "/npm.connected-react-router.21fd9e15175b1c45a2ce.chunk.js",
     "a3e4b3067ecefbb3e247d0e58a72397a4b00c2f7": "/npm.core-js.bf8479ba8742ced8a2f4.chunk.js",
@@ -37,11 +37,11 @@ var __wpo = {
     "7135377cab2c51da072d6834c212334e01bf63cc": "/npm.redux-saga.78c39b8c9909d19cdb64.chunk.js",
     "09127e720c53c3d9b2bf16d37e83bc68eab18586": "/runtime.2abfa45dec645146d7b3.js",
     "f75ca510632db5f54e66cda90cd674db692d892a": "/12.f921340d156bb1f6f13f.chunk.js",
-    "2387ea058183332f79ced57b2f9e76c59edf66ae": "/"
+    "f6902d0a8f882dfa29ccac7d9c7af312958fe2dd": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "17/02/2022, 22:04:14",
+  "version": "02/03/2022, 00:37:53",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
