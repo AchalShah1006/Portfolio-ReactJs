@@ -39,7 +39,7 @@ export default function Work() {
             title="Tic Tac Toe"
             para="1v1 Online multiplayer game with chat room."
             img="https://res.cloudinary.com/dayzwslj6/image/upload/v1646161407/samples/tictactoe_qmld6p.png"
-            // view="https://achalshah1006.github.io/Tic-Tac-Toe/"
+            view="https://tictactoe-client.herokuapp.com/"
           />
 
           <Project
